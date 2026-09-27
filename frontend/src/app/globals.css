@@ -1,0 +1,12 @@
+/* frontend/src/app/globals.css */
+@import "tailwindcss";
+
+:root {
+  --background: #090d16;
+  --foreground: #e0e1dd;
+}
+
+body {
+  color: var(--foreground);
+  background-color: var(--background);
+}
